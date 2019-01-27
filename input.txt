@@ -1,0 +1,5 @@
+1920 1080 1000 -1.5 0.7 -1.0 1.0
+
+(Change accordingly)
+width, height, val of n in z_n (formula)
+minReal, maxReal, minImaginary, maxImaginary
